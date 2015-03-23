@@ -1,0 +1,26 @@
+
+.basics {
+	background-color:#DFEAF1;
+}
+
+.second {
+	background-color:#FFFFCC;
+}
+
+h1 {
+	text-align: center;
+	color: #294860;
+}
+
+p {
+	margin: 10px 0;
+}
+
+ul {
+	list-style-type: none;
+	color: green;
+}
+
+h2 {
+	color: #294860;
+}
